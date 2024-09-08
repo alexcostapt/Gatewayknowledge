@@ -9,12 +9,12 @@ namespace Cafetaria.Cliente.Controllers
     {
         private readonly List<string> clientes =
         [
-            "Érica Cristina",
-            "Alice Maria",
-            "Thais Fernanda",
-            "Fernando Falcão",
-            "Tatalinho Cagão",
-            "Alex Developer"
+            "Evan None",
+            "Alinea Maria",
+            "Thaison Filho",
+            "Fernando Velheiro",
+            "Talio Ferdinando",
+            "Mickey Developer"
         ];
 
         [HttpGet]
